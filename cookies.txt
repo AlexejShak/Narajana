@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+boxshop.by	TRUE	/	FALSE	1999999999	SN54a06111b7455	a7gpu3qqnie69hs5mo337l5aj7
+.yandex.ru	TRUE	/	FALSE	1999999999	_yasc	W8rFf5YyYRyF3si1JU1U17dHiKFylYtqwjfCY0hhufXYX+jELLW4f0ROgliQfbY86Q==
+.yandex.ru	TRUE	/	FALSE	1999999999	i	IBHtoQpD8thBiE7a8DIi2opa9JVrkYmvKfJXSxCfrz9iLxKxZCPGMcq5oI68VY3LLtTx6vPP2EM+YNmnif9nrw70udE=
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	7390810241708589686
+

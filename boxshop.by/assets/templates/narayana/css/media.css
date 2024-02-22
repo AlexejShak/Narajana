@@ -1,0 +1,238 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    header {
+        padding-bottom: 30px;
+    }
+
+    header .logo {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    header .button {
+        margin: 20px auto;
+        float: none;
+    }
+
+    .block-2 {
+        height: auto;
+        padding-bottom: 50px;
+    }
+
+    .block-2 .col-lg-4 {
+        display: none;
+    }
+
+    .block-4 .button {
+        float: right;
+    }
+	
+	.block-4 {
+		padding-bottom: 55px;
+	}
+    
+	.block-5 {
+        height: auto;
+        background-repeat: repeat-y;
+        padding-bottom: 50px;
+    }
+
+    .slider-1 .bx-controls {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    header {
+        padding-bottom: 30px;
+    }
+
+    header .logo {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+    header .button {
+        margin: 20px auto;
+        float: none;
+    }
+
+    .block-1 {
+        background-repeat: repeat-y;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .block-2 {
+        height: auto;
+        padding-bottom: 50px;
+    }
+
+    .block-2 .col-lg-4 {
+        display: none;
+    }
+
+    .block-3 {
+        height: auto;
+        background-repeat: repeat-y;
+        padding-bottom: 30px;
+    }
+
+    .block-3 h1 .wingdings2 {
+        display: none;        
+    }
+
+	.block-4 {
+		padding-bottom: 35px;
+	}
+
+    .block-4 .button {
+        float: right;
+    }
+
+    .block-5 {
+        height: auto;
+        background-repeat: repeat-y;
+        padding-bottom: 50px;
+    }   
+    
+    .block-7 {
+        height: auto;
+    }
+
+    .block-7 h1 {
+        margin-top: 10px;
+        padding-top: 20px;
+    }    
+
+    .block-7 form .field-1 {
+        margin-bottom: 10px;            
+    }       
+
+    .block-7 br {
+        display: inline !important;
+    }  
+
+    .block-7 form .button {
+        margin-top: 10px;       
+    }
+
+    .block-8 {
+        display: none;
+    }
+    
+    .block-8-a {
+        display: block;
+    }
+
+    .block-8 .slide-info div div {
+        width: 768px;
+    }
+}
+
+@media (max-width: 767px) {
+    header {
+        padding-bottom: 50px;
+    }
+
+    header .logo {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    
+    header .center {
+        margin-top: -40px;
+    }
+
+    header .button {
+        margin: 20px auto;
+        float: none;
+    }
+
+    .block-1 {
+        background-repeat: repeat-y;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .block-2 {
+        height: auto;
+        padding-bottom: 50px;
+    }
+
+    .block-2 .col-lg-4 {
+        display: none;
+    }
+
+    .block-3 {
+        height: auto;
+        background-repeat: repeat-y;
+        padding-bottom: 30px;
+    }
+
+    .block-3 .tbl .tc:first-of-type, .block-3 .tbl .tc:last-of-type {
+        display: none;
+    }
+
+    .block-3 h1 {
+        white-space: normal;
+    }
+
+    .block-3 h1 .wingdings2 {
+        display: none;        
+    }
+	
+	.block-4 {
+		padding-bottom: 35px;
+	}
+
+    .block-4 .button {
+        float: right;
+    }
+
+    .block-5 {
+        height: auto;
+        background-repeat: repeat-y;
+        padding-bottom: 50px;
+    }
+    
+    .block-7 {
+        height: auto;
+    }
+
+    .block-7 h1 {
+        margin-top: 10px;
+        padding-top: 20px;
+    }
+
+    .block-7 form br {
+        display: inline !important;
+    }
+
+    .block-7 form .field-1 {
+        margin-bottom: 10px;
+    }
+
+    .block-7 form .button {
+        margin-top: 10px;  
+        margin-bottom: 20px;
+    }
+
+    .block-8 {
+        display: none;
+    }
+    
+    .block-8-a {
+        display: block;
+    }
+
+    .block-8 .slide-info div div {
+        width: 480px;
+    }
+
+    .block-9 .info {
+        margin-left: 20px;
+    }
+}
